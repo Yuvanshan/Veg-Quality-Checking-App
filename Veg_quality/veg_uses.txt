@@ -1,0 +1,3 @@
+It is Fresh Brinjal.\nIt's Good for Cook.
+It is 1 - 3 days Brinjal.\nIt's ok for Cook.
+It is 3 - 7 days Brinjal.\nIt's not ok for Cook.
